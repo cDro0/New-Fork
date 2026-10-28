@@ -81,7 +81,7 @@ I'm working toward a career in **Network Administration, IT Infrastructure, or C
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/cDro0)
 
-<!-- Add your LinkedIn profile URL when available. -->
+[![linkedIn](https://www.linkedin.com/in/ysidro-sanchez-b95387308/)
 
 ---
 

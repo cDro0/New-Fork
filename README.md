@@ -81,8 +81,7 @@ I'm working toward a career in **Network Administration, IT Infrastructure, or C
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/cDro0)
 
-[![linkedIn](https://www.linkedin.com/in/ysidro-sanchez-b95387308/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ysidro-sanchez-b95387308/) 
 ---
 
 *"Learning through practice, troubleshooting, and continuous improvement."*
